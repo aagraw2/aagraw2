@@ -13,7 +13,7 @@ Big fan of clean solutions. Not a fan of “let’s add one more service” as t
 ## Tech
 
 Go • Java • Python • TypeScript  
-Kafka • Redis • ClickHouse • MongoDB • SQL
+Kafka • Redis • ClickHouse • MongoDB • SQL  
 AWS • Kubernetes • Docker  
 
 ---
@@ -27,4 +27,4 @@ AWS • Kubernetes • Docker
 
 ## Resume
 
-[View Resume](https://raw.githubusercontent.com/aagraw2/resume-tex/main/Amit_Agrawal_SDE3_resume.pdf)
+[View Resume](https://github.com/aagraw2/resume-tex/blob/8d3c98d7b119e7997a60a930cada98206a2d45d4/Amit_Agrawal_SDE3_resume.pdf)
