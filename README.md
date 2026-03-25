@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Amit 👋
 
-<!--
-**aagraw2/aagraw2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend systems. Sometimes they scale. Sometimes they teach me why they didn’t.
 
-Here are some ideas to get you started:
+I like working on distributed systems and debugging weird production issues.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Breaking things is easy — making them simple and reliable is the interesting part.
+
+Big fan of clean solutions. Not a fan of “let’s add one more service” as the default answer.
+
+---
+
+## Tech
+
+Go • Java • Python • TypeScript  
+Kafka • Redis • ClickHouse • MongoDB • SQL
+AWS • Kubernetes • Docker  
+
+---
+
+## 
+
+- LinkedIn: https://linkedin.com/in/amitagrawal235  
+- Email: amitagrawal235@gmail.com
+
+---
+
+## Resume
+
+[View Resume](https://raw.githubusercontent.com/aagraw2/resume-tex/main/Amit_Agrawal_SDE3_resume.pdf)
