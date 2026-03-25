@@ -27,4 +27,5 @@ AWS • Kubernetes • Docker
 
 ## Resume
 
-[View Resume](https://github.com/aagraw2/resume-tex/blob/8d3c98d7b119e7997a60a930cada98206a2d45d4/Amit_Agrawal_SDE3_resume.pdf)
+[Open](https://aagraw2.github.io/resume-tex/Amit_Agrawal_SDE3_resume.pdf)  
+`aagraw2.github.io/resume-tex/Amit_Agrawal_SDE3_resume.pdf`
